@@ -55,7 +55,7 @@ bash
 cd backend
 npm start
 
-This will start the backend server at http://localhost:5000.
+
 Frontend
 
 In another terminal window, navigate to the frontend folder and run the React app:
